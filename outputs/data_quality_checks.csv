@@ -1,0 +1,13 @@
+check,result,status
+month: missing values,0,PASS
+region: missing values,0,PASS
+requests_received: missing values,0,PASS
+requests_completed: missing values,0,PASS
+open_requests_end_month: missing values,0,PASS
+overdue_requests: missing values,0,PASS
+median_wait_days: missing values,0,PASS
+requests_received: negative values,0,PASS
+requests_completed: negative values,0,PASS
+open_requests_end_month: negative values,0,PASS
+overdue_requests: negative values,0,PASS
+median_wait_days: negative values,0,PASS

@@ -1,0 +1,8 @@
+{
+  "project_name": "Victorian Public Service Demand & Performance Analysis",
+  "data_type": "synthetic",
+  "period": "2024-01 to 2025-12",
+  "regions": 12,
+  "records": 288,
+  "warning": "Not official Victorian Government data. Demonstration only."
+}

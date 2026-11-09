@@ -1,0 +1,289 @@
+month,region,requests_received,requests_completed,open_requests_end_month,overdue_requests,median_wait_days,service_channel
+2024-01-01,Barwon South West,451,398,113,20,21.8,Online
+2024-02-01,Barwon South West,421,384,114,13,18.1,Phone
+2024-03-01,Barwon South West,505,469,133,12,22.7,In person
+2024-04-01,Barwon South West,458,421,126,7,21.9,Online
+2024-05-01,Barwon South West,477,425,135,21,17.9,Phone
+2024-06-01,Barwon South West,462,426,132,6,20.3,In person
+2024-07-01,Barwon South West,523,470,152,13,15.5,Online
+2024-08-01,Barwon South West,476,431,144,13,15.5,Phone
+2024-09-01,Barwon South West,453,418,126,13,19.9,In person
+2024-10-01,Barwon South West,434,404,121,6,21.8,Online
+2024-11-01,Barwon South West,444,411,115,11,17.9,Phone
+2024-12-01,Barwon South West,513,463,154,10,15.9,In person
+2025-01-01,Barwon South West,421,379,142,13,21.8,Online
+2025-02-01,Barwon South West,519,467,139,14,23.0,Phone
+2025-03-01,Barwon South West,472,416,148,10,21.7,In person
+2025-04-01,Barwon South West,541,486,140,20,22.3,Online
+2025-05-01,Barwon South West,531,474,129,10,18.4,Phone
+2025-06-01,Barwon South West,521,467,150,16,22.0,In person
+2025-07-01,Barwon South West,509,461,112,12,19.8,Online
+2025-08-01,Barwon South West,427,374,129,21,21.9,Phone
+2025-09-01,Barwon South West,448,422,101,9,23.4,In person
+2025-10-01,Barwon South West,451,399,116,20,23.9,Online
+2025-11-01,Barwon South West,478,437,132,9,14.9,Phone
+2025-12-01,Barwon South West,552,505,133,15,27.2,In person
+2024-01-01,Gippsland,347,316,133,5,23.9,Online
+2024-02-01,Gippsland,401,379,98,7,16.0,Phone
+2024-03-01,Gippsland,394,344,117,16,17.8,In person
+2024-04-01,Gippsland,385,352,166,6,26.8,Online
+2024-05-01,Gippsland,420,371,126,14,20.0,Phone
+2024-06-01,Gippsland,390,348,134,7,23.3,In person
+2024-07-01,Gippsland,383,338,134,9,17.2,Online
+2024-08-01,Gippsland,420,383,109,7,17.3,Phone
+2024-09-01,Gippsland,339,302,139,9,16.1,In person
+2024-10-01,Gippsland,339,316,112,5,18.9,Online
+2024-11-01,Gippsland,352,323,99,5,14.7,Phone
+2024-12-01,Gippsland,456,432,118,9,19.3,In person
+2025-01-01,Gippsland,435,397,134,12,24.3,Online
+2025-02-01,Gippsland,459,419,154,16,14.5,Phone
+2025-03-01,Gippsland,479,433,119,10,26.0,In person
+2025-04-01,Gippsland,417,385,119,13,20.2,Online
+2025-05-01,Gippsland,447,422,84,5,22.9,Phone
+2025-06-01,Gippsland,427,379,132,15,17.0,In person
+2025-07-01,Gippsland,438,383,140,11,18.7,Online
+2025-08-01,Gippsland,426,392,113,13,20.1,Phone
+2025-09-01,Gippsland,384,351,124,10,16.5,In person
+2025-10-01,Gippsland,393,381,97,3,17.6,Online
+2025-11-01,Gippsland,356,318,117,7,25.9,Phone
+2025-12-01,Gippsland,465,397,150,20,17.0,In person
+2024-01-01,Grampians,324,293,152,12,13.0,Online
+2024-02-01,Grampians,330,290,112,15,30.6,Phone
+2024-03-01,Grampians,365,334,117,11,15.2,In person
+2024-04-01,Grampians,398,365,102,8,18.7,Online
+2024-05-01,Grampians,372,335,134,8,17.2,Phone
+2024-06-01,Grampians,394,359,125,8,19.7,In person
+2024-07-01,Grampians,340,311,150,6,30.9,Online
+2024-08-01,Grampians,383,351,139,6,15.3,Phone
+2024-09-01,Grampians,343,315,124,5,23.6,In person
+2024-10-01,Grampians,308,276,117,11,20.2,Online
+2024-11-01,Grampians,338,304,85,10,26.0,Phone
+2024-12-01,Grampians,411,375,99,8,18.7,In person
+2025-01-01,Grampians,378,359,104,5,23.8,Online
+2025-02-01,Grampians,385,339,144,11,25.7,Phone
+2025-03-01,Grampians,442,414,124,8,27.6,In person
+2025-04-01,Grampians,426,383,147,14,17.9,Online
+2025-05-01,Grampians,376,348,135,10,21.1,Phone
+2025-06-01,Grampians,414,394,108,4,14.7,In person
+2025-07-01,Grampians,354,316,117,12,23.6,Online
+2025-08-01,Grampians,345,313,126,10,18.5,Phone
+2025-09-01,Grampians,388,358,121,8,22.5,In person
+2025-10-01,Grampians,368,349,117,6,19.1,Online
+2025-11-01,Grampians,325,307,99,6,24.9,Phone
+2025-12-01,Grampians,465,434,125,12,22.6,In person
+2024-01-01,Hume,374,337,141,8,20.9,Online
+2024-02-01,Hume,387,349,115,13,16.5,Phone
+2024-03-01,Hume,436,404,134,8,24.9,In person
+2024-04-01,Hume,461,424,96,14,18.9,Online
+2024-05-01,Hume,480,429,116,9,25.1,Phone
+2024-06-01,Hume,391,338,150,15,21.7,In person
+2024-07-01,Hume,420,366,136,22,20.3,Online
+2024-08-01,Hume,411,379,124,13,17.5,Phone
+2024-09-01,Hume,409,373,123,6,17.5,In person
+2024-10-01,Hume,391,362,115,11,22.5,Online
+2024-11-01,Hume,389,360,96,9,15.4,Phone
+2024-12-01,Hume,416,370,138,17,19.5,In person
+2025-01-01,Hume,457,429,138,5,17.7,Online
+2025-02-01,Hume,449,397,128,11,15.0,Phone
+2025-03-01,Hume,451,418,128,13,15.5,In person
+2025-04-01,Hume,439,403,139,14,13.8,Online
+2025-05-01,Hume,450,402,144,19,18.7,Phone
+2025-06-01,Hume,451,412,123,8,26.7,In person
+2025-07-01,Hume,400,373,122,9,26.0,Online
+2025-08-01,Hume,422,386,127,10,29.9,Phone
+2025-09-01,Hume,419,391,117,7,23.1,In person
+2025-10-01,Hume,421,373,121,11,13.6,Online
+2025-11-01,Hume,406,365,116,12,26.4,Phone
+2025-12-01,Hume,523,469,153,18,22.9,In person
+2024-01-01,Loddon Mallee,356,332,152,6,19.8,Online
+2024-02-01,Loddon Mallee,387,364,112,9,22.2,Phone
+2024-03-01,Loddon Mallee,390,345,144,11,16.6,In person
+2024-04-01,Loddon Mallee,428,391,122,9,22.0,Online
+2024-05-01,Loddon Mallee,423,363,127,11,12.3,Phone
+2024-06-01,Loddon Mallee,425,394,76,10,14.4,In person
+2024-07-01,Loddon Mallee,364,351,109,4,18.3,Online
+2024-08-01,Loddon Mallee,325,292,134,11,20.3,Phone
+2024-09-01,Loddon Mallee,364,335,143,6,24.4,In person
+2024-10-01,Loddon Mallee,328,289,150,16,20.1,Online
+2024-11-01,Loddon Mallee,348,327,134,7,22.0,Phone
+2024-12-01,Loddon Mallee,431,380,117,20,22.9,In person
+2025-01-01,Loddon Mallee,407,363,122,14,11.7,Online
+2025-02-01,Loddon Mallee,365,323,128,13,20.6,Phone
+2025-03-01,Loddon Mallee,418,380,137,10,24.3,In person
+2025-04-01,Loddon Mallee,439,403,124,13,29.7,Online
+2025-05-01,Loddon Mallee,419,371,124,18,16.7,Phone
+2025-06-01,Loddon Mallee,416,380,139,11,18.8,In person
+2025-07-01,Loddon Mallee,423,381,134,16,24.2,Online
+2025-08-01,Loddon Mallee,353,319,126,8,18.5,Phone
+2025-09-01,Loddon Mallee,343,322,116,6,21.2,In person
+2025-10-01,Loddon Mallee,316,277,139,14,18.0,Online
+2025-11-01,Loddon Mallee,435,381,168,16,23.4,Phone
+2025-12-01,Loddon Mallee,439,400,109,13,16.0,In person
+2024-01-01,North Eastern Metro,558,497,124,25,21.2,Online
+2024-02-01,North Eastern Metro,623,554,149,13,17.9,Phone
+2024-03-01,North Eastern Metro,645,596,147,9,13.7,In person
+2024-04-01,North Eastern Metro,591,538,130,18,22.4,Online
+2024-05-01,North Eastern Metro,578,533,156,8,18.3,Phone
+2024-06-01,North Eastern Metro,599,542,154,17,18.4,In person
+2024-07-01,North Eastern Metro,575,514,114,20,16.8,Online
+2024-08-01,North Eastern Metro,641,620,106,5,13.3,Phone
+2024-09-01,North Eastern Metro,550,495,152,12,23.5,In person
+2024-10-01,North Eastern Metro,498,459,123,16,22.0,Online
+2024-11-01,North Eastern Metro,562,517,109,18,16.4,Phone
+2024-12-01,North Eastern Metro,702,628,189,22,20.9,In person
+2025-01-01,North Eastern Metro,572,526,138,8,18.2,Online
+2025-02-01,North Eastern Metro,694,622,148,29,21.7,Phone
+2025-03-01,North Eastern Metro,653,589,161,15,15.5,In person
+2025-04-01,North Eastern Metro,656,551,184,33,23.1,Online
+2025-05-01,North Eastern Metro,621,574,143,10,31.7,Phone
+2025-06-01,North Eastern Metro,675,608,175,19,24.8,In person
+2025-07-01,North Eastern Metro,617,551,178,14,25.6,Online
+2025-08-01,North Eastern Metro,597,533,168,19,21.5,Phone
+2025-09-01,North Eastern Metro,509,450,134,11,13.4,In person
+2025-10-01,North Eastern Metro,559,503,130,14,21.8,Online
+2025-11-01,North Eastern Metro,604,562,140,14,19.2,Phone
+2025-12-01,North Eastern Metro,733,675,132,10,25.8,In person
+2024-01-01,Northern Metro,633,568,165,19,14.4,Online
+2024-02-01,Northern Metro,647,568,134,19,25.3,Phone
+2024-03-01,Northern Metro,619,545,175,17,22.1,In person
+2024-04-01,Northern Metro,646,565,179,28,21.3,Online
+2024-05-01,Northern Metro,685,624,163,11,24.3,Phone
+2024-06-01,Northern Metro,606,513,167,22,26.1,In person
+2024-07-01,Northern Metro,573,519,151,20,28.6,Online
+2024-08-01,Northern Metro,617,543,148,17,20.3,Phone
+2024-09-01,Northern Metro,708,671,139,9,18.0,In person
+2024-10-01,Northern Metro,642,587,156,12,24.3,Online
+2024-11-01,Northern Metro,653,595,139,15,22.2,Phone
+2024-12-01,Northern Metro,708,669,132,13,27.5,In person
+2025-01-01,Northern Metro,739,668,166,15,17.8,Online
+2025-02-01,Northern Metro,713,621,208,16,21.9,Phone
+2025-03-01,Northern Metro,774,699,161,29,22.6,In person
+2025-04-01,Northern Metro,697,627,167,13,17.5,Online
+2025-05-01,Northern Metro,759,652,212,19,26.6,Phone
+2025-06-01,Northern Metro,771,697,169,24,18.4,In person
+2025-07-01,Northern Metro,718,672,117,14,22.3,Online
+2025-08-01,Northern Metro,663,602,154,11,20.7,Phone
+2025-09-01,Northern Metro,638,566,165,28,21.5,In person
+2025-10-01,Northern Metro,668,584,156,18,29.0,Online
+2025-11-01,Northern Metro,573,491,170,32,23.5,Phone
+2025-12-01,Northern Metro,870,728,215,52,29.7,In person
+2024-01-01,Southern Metro,630,557,184,27,19.8,Online
+2024-02-01,Southern Metro,761,680,197,33,21.4,Phone
+2024-03-01,Southern Metro,696,630,168,16,34.1,In person
+2024-04-01,Southern Metro,680,630,153,20,19.6,Online
+2024-05-01,Southern Metro,710,646,160,13,23.0,Phone
+2024-06-01,Southern Metro,606,557,138,11,16.0,In person
+2024-07-01,Southern Metro,675,597,161,17,16.5,Online
+2024-08-01,Southern Metro,621,560,161,11,18.0,Phone
+2024-09-01,Southern Metro,634,542,178,19,22.1,In person
+2024-10-01,Southern Metro,623,562,134,24,26.0,Online
+2024-11-01,Southern Metro,586,513,156,15,27.3,Phone
+2024-12-01,Southern Metro,669,575,177,30,20.2,In person
+2025-01-01,Southern Metro,696,623,150,28,19.9,Online
+2025-02-01,Southern Metro,748,646,189,28,23.1,Phone
+2025-03-01,Southern Metro,823,730,163,19,21.9,In person
+2025-04-01,Southern Metro,765,670,193,21,24.5,Online
+2025-05-01,Southern Metro,731,678,150,20,28.8,Phone
+2025-06-01,Southern Metro,804,688,207,25,19.7,In person
+2025-07-01,Southern Metro,692,622,166,20,22.6,Online
+2025-08-01,Southern Metro,682,617,172,13,25.2,Phone
+2025-09-01,Southern Metro,750,683,155,20,18.9,In person
+2025-10-01,Southern Metro,713,659,151,21,27.2,Online
+2025-11-01,Southern Metro,737,670,113,20,25.1,Phone
+2025-12-01,Southern Metro,852,691,258,47,25.7,In person
+2024-01-01,Western Metro,564,498,189,17,19.7,Online
+2024-02-01,Western Metro,642,585,131,13,22.2,Phone
+2024-03-01,Western Metro,660,594,144,27,20.8,In person
+2024-04-01,Western Metro,715,645,163,15,21.5,Online
+2024-05-01,Western Metro,699,613,169,30,26.5,Phone
+2024-06-01,Western Metro,597,545,145,21,16.1,In person
+2024-07-01,Western Metro,668,608,154,11,16.7,Online
+2024-08-01,Western Metro,601,534,183,16,28.4,Phone
+2024-09-01,Western Metro,655,589,157,20,25.6,In person
+2024-10-01,Western Metro,601,554,130,15,19.8,Online
+2024-11-01,Western Metro,633,571,146,12,25.5,Phone
+2024-12-01,Western Metro,774,705,151,17,28.7,In person
+2025-01-01,Western Metro,587,514,158,24,23.2,Online
+2025-02-01,Western Metro,674,618,152,19,24.4,Phone
+2025-03-01,Western Metro,738,626,202,45,14.6,In person
+2025-04-01,Western Metro,723,671,134,21,24.2,Online
+2025-05-01,Western Metro,740,657,164,32,27.5,Phone
+2025-06-01,Western Metro,738,678,160,15,27.5,In person
+2025-07-01,Western Metro,685,604,179,19,21.6,Online
+2025-08-01,Western Metro,615,561,145,19,23.1,Phone
+2025-09-01,Western Metro,745,646,195,23,24.6,In person
+2025-10-01,Western Metro,641,585,139,15,29.9,Online
+2025-11-01,Western Metro,696,616,176,14,20.0,Phone
+2025-12-01,Western Metro,854,768,172,31,19.9,In person
+2024-01-01,Eastern Metro,490,430,192,13,27.3,Online
+2024-02-01,Eastern Metro,554,519,131,6,21.6,Phone
+2024-03-01,Eastern Metro,599,541,124,19,16.7,In person
+2024-04-01,Eastern Metro,632,565,168,20,22.4,Online
+2024-05-01,Eastern Metro,611,540,184,29,22.3,Phone
+2024-06-01,Eastern Metro,610,564,145,11,27.2,In person
+2024-07-01,Eastern Metro,594,542,121,13,25.6,Online
+2024-08-01,Eastern Metro,521,486,120,9,28.8,Phone
+2024-09-01,Eastern Metro,493,441,159,11,23.3,In person
+2024-10-01,Eastern Metro,521,474,137,9,24.9,Online
+2024-11-01,Eastern Metro,515,460,171,10,22.2,Phone
+2024-12-01,Eastern Metro,662,592,156,27,19.8,In person
+2025-01-01,Eastern Metro,565,528,127,10,28.6,Online
+2025-02-01,Eastern Metro,620,557,118,22,30.5,Phone
+2025-03-01,Eastern Metro,562,498,161,23,26.5,In person
+2025-04-01,Eastern Metro,634,587,151,17,24.6,Online
+2025-05-01,Eastern Metro,657,582,165,21,24.4,Phone
+2025-06-01,Eastern Metro,689,578,195,25,19.3,In person
+2025-07-01,Eastern Metro,601,518,209,26,20.8,Online
+2025-08-01,Eastern Metro,659,586,134,14,19.7,Phone
+2025-09-01,Eastern Metro,570,499,149,25,18.0,In person
+2025-10-01,Eastern Metro,577,525,154,15,19.3,Online
+2025-11-01,Eastern Metro,550,504,131,8,19.2,Phone
+2025-12-01,Eastern Metro,725,664,166,24,30.9,In person
+2024-01-01,Central Highlands,320,294,97,6,30.3,Online
+2024-02-01,Central Highlands,320,299,103,4,17.3,Phone
+2024-03-01,Central Highlands,362,324,117,14,20.0,In person
+2024-04-01,Central Highlands,338,323,97,3,26.4,Online
+2024-05-01,Central Highlands,353,311,104,8,17.5,Phone
+2024-06-01,Central Highlands,298,259,148,14,22.9,In person
+2024-07-01,Central Highlands,347,319,128,5,25.3,Online
+2024-08-01,Central Highlands,313,286,100,10,21.1,Phone
+2024-09-01,Central Highlands,291,262,119,7,20.3,In person
+2024-10-01,Central Highlands,329,301,102,5,28.7,Online
+2024-11-01,Central Highlands,360,319,124,11,24.0,Phone
+2024-12-01,Central Highlands,352,315,149,9,27.7,In person
+2025-01-01,Central Highlands,331,300,132,9,21.4,Online
+2025-02-01,Central Highlands,365,344,112,4,28.1,Phone
+2025-03-01,Central Highlands,396,351,122,16,23.7,In person
+2025-04-01,Central Highlands,399,365,145,11,30.4,Online
+2025-05-01,Central Highlands,373,339,115,10,24.5,Phone
+2025-06-01,Central Highlands,411,373,95,7,29.3,In person
+2025-07-01,Central Highlands,315,289,96,4,25.7,Online
+2025-08-01,Central Highlands,348,330,101,5,25.5,Phone
+2025-09-01,Central Highlands,331,280,117,15,28.3,In person
+2025-10-01,Central Highlands,323,281,100,13,25.2,Online
+2025-11-01,Central Highlands,357,328,104,9,15.2,Phone
+2025-12-01,Central Highlands,448,372,178,21,20.5,In person
+2024-01-01,Inner Metro,503,457,132,11,30.3,Online
+2024-02-01,Inner Metro,566,487,160,27,20.0,Phone
+2024-03-01,Inner Metro,570,490,174,15,27.1,In person
+2024-04-01,Inner Metro,521,466,128,12,15.8,Online
+2024-05-01,Inner Metro,610,552,155,21,30.9,Phone
+2024-06-01,Inner Metro,589,569,116,6,20.4,In person
+2024-07-01,Inner Metro,563,498,159,27,32.9,Online
+2024-08-01,Inner Metro,501,461,138,15,22.8,Phone
+2024-09-01,Inner Metro,467,423,128,16,25.8,In person
+2024-10-01,Inner Metro,493,438,158,15,22.5,Online
+2024-11-01,Inner Metro,456,419,110,8,25.7,Phone
+2024-12-01,Inner Metro,686,638,150,16,18.2,In person
+2025-01-01,Inner Metro,580,498,180,17,25.8,Online
+2025-02-01,Inner Metro,598,541,103,23,29.4,Phone
+2025-03-01,Inner Metro,600,536,172,17,25.0,In person
+2025-04-01,Inner Metro,581,527,166,15,22.1,Online
+2025-05-01,Inner Metro,598,544,153,12,32.3,Phone
+2025-06-01,Inner Metro,598,546,137,21,29.7,In person
+2025-07-01,Inner Metro,577,511,159,14,27.9,Online
+2025-08-01,Inner Metro,588,528,183,13,23.6,Phone
+2025-09-01,Inner Metro,492,457,158,9,21.9,In person
+2025-10-01,Inner Metro,583,538,131,12,24.6,Online
+2025-11-01,Inner Metro,570,532,140,12,21.9,Phone
+2025-12-01,Inner Metro,714,653,137,13,24.6,In person
